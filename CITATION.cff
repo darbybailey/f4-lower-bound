@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or results, please cite the paper below."
+type: software
+authors:
+  - family-names: "McDonough"
+    given-names: "Darby Bailey"
+    orcid: "https://orcid.org/0000-0003-4072-6191"
+    affiliation: "Pip Projects, Inc. / Digital Sidewalk Lab"
+title: "F4 > 4.4416832003: Recurrent Digit Grammars and Certified Reciprocal Sums"
+version: "1.2"
+date-released: "2026-09-13"
+url: "https://github.com/darbybailey/f4-lower-bound"
+repository-code: "https://github.com/darbybailey/f4-lower-bound"
+license: MIT
+abstract: >
+  Standalone verification artifacts for a constructive lower bound
+  F4 > 4.4416832003 on the reciprocal sum of an explicit infinite
+  four-term-progression-free set. The package supplies the fixed
+  witness, a 1,384-state digit automaton, and solver-free verification
+  code. Discovery software and search records are withheld.
+keywords:
+  - "arithmetic progression"
+  - "reciprocal sum"
+  - "digit-restricted set"
+  - "finite automaton"
+  - "computer-assisted proof"
+  - "exact arithmetic"
+  - "combinatorial optimization"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "McDonough"
+      given-names: "Darby Bailey"
+      orcid: "https://orcid.org/0000-0003-4072-6191"
+      affiliation: "Pip Projects, Inc. / Digital Sidewalk Lab"
+  title: "F4 > 4.4416832003: Recurrent Digit Grammars and Certified Reciprocal Sums"
+  year: 2026
+  url: "https://github.com/darbybailey/f4-lower-bound"
