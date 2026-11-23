@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "scope": "Secondary implementation of the same carry formulation; optional nonrigorous floating control.",
+  "secondary_carry_stdout": "reachable product states (dead-pruned): 801373, transitions examined: 2424153325, four-term progression found: NO",
+  "floating_control_stdout": "independent value 4.4416832003495266; certificate lower 4.441683200349526533 upper 4.441683200349526533",
+  "floating_scope": "Double-precision agreement only, not a rational enclosure."
+}
