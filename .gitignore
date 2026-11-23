@@ -1,0 +1,7 @@
+runs/
+__pycache__/
+*.pyc
+oracle
+secondary
+*.o
+.DS_Store
