@@ -9,6 +9,7 @@ authors:
 title: "F4 > 4.4416832003: Recurrent Digit Grammars and Certified Reciprocal Sums"
 version: "1.2"
 date-released: "2026-09-13"
+doi: "10.5281/zenodo.24485654"
 url: "https://github.com/darbybailey/f4-lower-bound"
 repository-code: "https://github.com/darbybailey/f4-lower-bound"
 license: MIT
@@ -35,4 +36,5 @@ preferred-citation:
       affiliation: "Pip Projects, Inc. / Digital Sidewalk Lab"
   title: "F4 > 4.4416832003: Recurrent Digit Grammars and Certified Reciprocal Sums"
   year: 2026
+  doi: "10.5281/zenodo.24485654"
   url: "https://github.com/darbybailey/f4-lower-bound"
