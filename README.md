@@ -4,13 +4,13 @@
 
 This repository contains the standalone verification artifacts for the paper:
 
-> McDonough, D. B. (2026). *F4 > 4.4416832003: Recurrent Digit Grammars and Certified Reciprocal Sums.* Certificate-only manuscript, version 1.2. Preprint. Reserved DOI: [10.5281/zenodo.24485654](https://doi.org/10.5281/zenodo.24485654) (unpublished draft; not a registered public DOI until the record is published).
+> McDonough, D. B. (2026). *F4 > 4.4416832003: Recurrent Digit Grammars and Certified Reciprocal Sums.* Certificate-only manuscript, version 1.2. Preprint. Published 2026-09-13. Version DOI: [10.5281/zenodo.24485654](https://doi.org/10.5281/zenodo.24485654). Concept DOI: [10.5281/zenodo.24485653](https://doi.org/10.5281/zenodo.24485653).
 
 The paper PDF is in `paper/F4_Bound_Certificate_Paper.pdf`. The same verifier tree is also packaged as `F4-Certificate-Only-Standalone.zip`.
 
 **Code: MIT License. Paper: CC BY 4.0.** Discovery software and search records are withheld. This repository contains only the mathematical witness and its verification software.
 
-The unpublished Zenodo preprint draft of the paper PDF and this certificate package is [deposit 24485654](https://zenodo.org/uploads/24485654), with reserved (unregistered) DOI [10.5281/zenodo.24485654](https://doi.org/10.5281/zenodo.24485654). That identifier is reserved for this version; it is not a public registered DOI until the record is published.
+The published Zenodo record for the paper PDF and this certificate package is [10.5281/zenodo.24485654](https://zenodo.org/records/24485654) (version 1.2, published 2026-09-13). The concept DOI is [10.5281/zenodo.24485653](https://doi.org/10.5281/zenodo.24485653).
 
 ---
 
