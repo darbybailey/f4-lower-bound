@@ -1,0 +1,24 @@
+{
+  "input_certificate_sha256": "cee3333767da6649db80812bfbe185223e5f11680ed0c4f817c424c489a7b4a6",
+  "predecessor_archive_sha256": "f59e2fe096cbcf5dd867a7eff95fbf80ca22f5c4a29c316381aa3ffa6d710a48",
+  "predecessor_member": "F4-Three-State-Middle-Verified/results/state_candidate.json",
+  "predecessor_grammar_sha256": "ab4b0416085cd145b47ee18af26d0a4beed2a4863acad7d722100f453a2bbc22",
+  "source_modules": {
+    "root_automaton.py": "4d1a0e3181816b002d53f33fa84c1d5ab652e1ea39be1560d6d79ff8b22e999c",
+    "compile_dfa.py": "3804b15d28d2cddaf18488d88e7d9c16cc967ded2f9d68e716feeb85bbbbc4a9",
+    "dfa_ap_oracle.cpp": "6344823bb9000a2f08236ec213cbdcec11de333bae4b759fed85036fa1bc2cf0",
+    "test_generic.py": "d11af692eb8f1ff5ec4cb2411d0ad3f0ea7510672d46d5dab3f4ad3704348baa"
+  },
+  "independent_modules": {
+    "ap4_product_check.cpp": "f486cd9e5d3cbb5876b711a5a19bd3ba0808f6fc5ecb089c89008b1f084f0348",
+    "moment_sum_check.py": "fcfa39f7d629da64eee21022c8a4c590535333c31b13eea035da6bd31995a731"
+  },
+  "changes": [
+    "Driver rewritten to rederive baseline and predecessor weight from supplied witnesses.",
+    "Constant-alphabet Walker calibration isolated from verification mathematics; no alphabet search, scheduling, ranking, or proposal generator copied.",
+    "Search coverage metadata, unused root pool, harvest ledger and historical catalog-control points omitted.",
+    "Public proof rewritten for these local paths and this acceptance scope."
+  ],
+  "publication": "No external publication or deposit performed.",
+  "license": "No license is granted or selected by this packaging operation. Any deposit licensing decision remains with the rights holder."
+}
